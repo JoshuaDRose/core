@@ -42,7 +42,7 @@ Please make sure to respect issue requirements and use [the new issue helper](ht
 
 Please make sure to read the [Contributing Guide](https://github.com/vuejs/core/blob/main/.github/contributing.md) before making a pull request. If you have a Vue-related project/component/tool, add it with a pull request to [this curated list](https://github.com/vuejs/awesome-vue)!
 
-Thank you to all the people who already contributed to Vue!
+Thank you to all the people who contribute to Vue!
 
 <a href="https://github.com/vuejs/core/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
 
